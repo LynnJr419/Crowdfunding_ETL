@@ -13,7 +13,7 @@ Data Upload: Finally, upload the CSV data into a Postgres database.
 - Patricia Taylor
 
 ## Contents - Project Sections
-1. [Category and Subcategory Dataframes](#category-and-subcategory-dataframes)
+1. [Category and Subcategory Dataframes]
 2. [Campaign Dataframe](#campaign-dataframe)
 3. [Contacts Dataframe](#contacts-dataframe)
 4. [Crowdfunding Database](#crowdfunding-database)
